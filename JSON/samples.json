@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "Fear Itself",
+    "file": "samples/Fear_itself.mp3",
+    "bpm": "120",
+    "loop": "3m"
+  },
+  {
+    "name": "The Only Thing",
+    "file": "samples/the_only_thing.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
