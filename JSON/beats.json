@@ -1,27 +1,27 @@
 [
   {
-    "name": "Snare",
+    "name": "Kick",
     "pitch": "A3",
     "pattern": "1000"
   },
   {
-    "name": "Clap",
-    "pitch": "B3",
+    "name": "Claps",
+    "pitch": "C4",
     "pattern": "00001000"
   },
   {
-    "name": "Hi Hat",
+    "name": "HiHat",
     "pitch": "F4",
-    "pattern": "1000100100101001110101010010101011101011001001010"
+    "pattern": "00100101001010101"
   },
   {
     "name": "Kick 2",
     "pitch": "A3",
-    "pattern": "0000000001100"
+    "pattern": "00000000011"
   },
   {
-    "name": "Shot 1",
+    "name": "Reverse",
     "pitch": "C#4",
-    "pattern": "00000000000000000000000000001000"
+    "pattern": "1000000000000000000000"
   }
 ]
