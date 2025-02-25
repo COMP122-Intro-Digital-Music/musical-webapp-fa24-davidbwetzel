@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "name": "Bass 1",
+    "file": "samples/Bass-ApparentRandom1-Am.wav",
+    "bpm": "120",
+    "loop": "4m"
+  },
+  {
+    "name": "Bass 2",
+    "file": "samples/Bass-ApparentRandom5-Am.wav",
+    "bpm": "120",
+    "loop": "4m"
+  },
+  {
+    "name": "Bass 3",
+    "file": "samples/Bass-ApparentRandom6-Am.wav",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Bass 4",
+    "file": "samples/Bass-Blast3-Am.wav",
+    "bpm": "120",
+    "loop": "2m"
+  },
+  {
+    "name": "Beat 1",
+    "file": "samples/Beat-Champion2.wav",
+    "bpm": "120",
+    "loop": "2m"
+  },
+  {
+    "name": "Beat 2",
+    "file": "samples/Beat-Cat2.wav",
+    "bpm": "120",
+    "loop": "2m"
+  },
+  {
+    "name": "Beat 3",
+    "file": "samples/Broken.wav",
+    "bpm": "120",
+    "loop": "2m"
+  }
+]

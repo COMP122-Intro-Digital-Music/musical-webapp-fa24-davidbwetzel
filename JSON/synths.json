@@ -1,1 +1,70 @@
-[ ]
+[
+  {
+    "name": "FM Square",
+    "type": "Synth",
+    "settings": {
+      "volume": -8.999999999999998,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.125",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1.655",
+        "releaseCurve": "sine",
+        "sustain": "0.705"
+      },
+      "oscillator": {
+        "partialCount": 15,
+        "partials": [
+          1.2732395447351628,
+          0,
+          0.4244131815783876,
+          0,
+          0.25464790894703254,
+          0,
+          0.18189136353359467,
+          0,
+          0.1414710605261292,
+          0,
+          0.11574904952137845,
+          0,
+          0.09794150344116635,
+          0,
+          0.08488263631567752
+        ],
+        "phase": 0,
+        "type": "amsquare15",
+        "harmonicity": 1,
+        "modulationType": "square"
+      }
+    }
+  },
+  {
+    "name": "Jump",
+    "type": "Synth",
+    "settings": {
+      "volume": -7,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.045",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.705"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "fatsawtooth",
+        "count": 4,
+        "spread": 20
+      }
+    }
+  }
+]
